@@ -1,4 +1,6 @@
 ## Hi there 👋
+My name is Chukwuma Johnpaul. About to start my Msc in Computer Science while also studying cloud computing on my own.
+
 
 <!--
 **Chuzzychukwuma/chuzzychukwuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
